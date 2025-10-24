@@ -113,7 +113,7 @@ Wine-Quality-Classification/
 ## 🧩 How to Run
 
 ```bash
-git clone https://github.com/<yourusername>/Wine-Quality-Classification.git
+git clone https://github.com/Ramy-Bahi/Wine-Quality-Classification.git
 cd Wine-Quality-Classification
 pip install -r requirements.txt
 jupyter notebook notebooks/wine_classification.ipynb
